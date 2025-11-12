@@ -17,10 +17,9 @@ Sou o Theo Ronna — desenvolvedor full‑stack focado em dashboards, APIs e fer
   ![INSERIR PRINT: vigia-themis - Tela principal/Lista de alunos](./assets/vigia-themis-lista-alunos.png)
 
 - [vigia-backend](https://github.com/theoronna88/vigia-backend) — **Backend (Java Spring Boot • Postgres/MySQL).**  
-  ![INSERIR PRINT: vigia-backend - Logs / API endpoints](./assets/vigia-backend-logs.png)
 
 - [security-hub](https://github.com/theoronna88/security-hub) — **API para centralizar regras de segurança e permitir a operação remota dos controles de acesso** (ex.: liberação de portas). (Node • Express • Prisma)  
-  ![INSERIR PRINT: security-hub - Exemplo de logs / painel de regras](./assets/security-hub-logs.png)
+  ![INSERIR PRINT: security-hub / painel de portas](./assets/security-hub.png)
 
 - [dashboard-financeiro](https://github.com/theoronna88/dashboard-financeiro) — **Painel financeiro com visualizações interativas** — integração COMSEFAZ / Conta Azul. (React • Recharts)  
   ![INSERIR PRINT: dashboard-financeiro - Gráfico/dash principal](./assets/dashboard-financeiro-grafico.png)
@@ -46,10 +45,9 @@ I'm Theo Ronna — a full‑stack developer focused on dashboards, APIs and secu
   ![INSERT SCREENSHOT: vigia-themis - Main screen / Students list](./assets/vigia-themis-lista-alunos.png)
 
 - [vigia-backend](https://github.com/theoronna88/vigia-backend) — **Backend (Java Spring Boot • Postgres/MySQL).**  
-  ![INSERT SCREENSHOT: vigia-backend - Logs / API endpoints](./assets/vigia-backend-logs.png)
 
 - [security-hub](https://github.com/theoronna88/security-hub) — **API to centralize security rules and enable remote operation of access-control systems** (e.g., door release). (Node • Express • Prisma)  
-  ![INSERT SCREENSHOT: security-hub - Logs / Rules panel](./assets/security-hub-logs.png)
+  ![INSERT SCREENSHOT: security-hub / Doors panel](./assets/security-hub.png)
 
 - [dashboard-financeiro](https://github.com/theoronna88/dashboard-financeiro) — **Financial dashboard with interactive visualizations** — COMSEFAZ / Conta Azul integration. (React • Recharts)  
   ![INSERT SCREENSHOT: dashboard-financeiro - Chart / main dashboard](./assets/dashboard-financeiro-grafico.png)
